@@ -2,3 +2,7 @@
 生活代码
 你好
 创建第一个分支
+
+黄凯鹏
+
+创建一个分支 Create a branch 当你工作的一个项目，你会在任何给定的时间有一堆不同的功能或正在进行的想法 - 其中一些是蓄势待发，而另一些则不是。分支的存在是为了帮助你管理这个工作流程。 When you're working on a project, you're going to have a bunch of different features or ideas in progress at any given time – some of which are ready to go, and others which are not. Branching exists to help you manage this workflow. 当您在项目中创建一个分支，你创造一个环境，在那里你可以尝试新的想法。你让一个分支的更改不会影响主分支，让你可以自由进行实验，并提交更改，在你的分支将不会被合并，直到它准备好知识安全的人所正在与合作进行审查。 When you create a branch in your project, you're creating an environment where you can try out new ideas. Changes you make on a branch don't affect the master branch, so you're free to experiment and commit changes, safe in the knowledge that your branch won't be merged until it's ready to be reviewed by someone you're collaborating with. ProTip 分支在Git中是一个核心概念，整个GitHub的流量是基于它。这里只有一个规则：在任何主分支总是部署。 Branching is a core concept in Git, and the entire GitHub Flow is based upon it. There's only one rule: anything in the master branch is always deployable. 正因为如此，这是非常重要的一个功能或修复工作时，你的新分支关老爷的创建。您的分支名应该是描述（例如，重构的身份验证，用户的内容缓存键，使视网膜-化身），以便其他人可以看到正在处理。 Because of this, it's extremely important that your new branch is created off of master when working on a feature or a fix. Your branch name should be descriptive (e.g., refactor-authentication, user-content-cache-key, make-retina-avatars), so that others can see what is being worked on.来自GitHub Flow
